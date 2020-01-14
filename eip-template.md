@@ -1,7 +1,7 @@
 ---
 eip: <to be assigned>
 title: Anonymous and Verifiable On-chain Voting via CREAM: Confidential Reliable Ethereum Anonymous Mixer
-author: Kazuaki Ishiguro (@kazuakiishiguro), Dan Lipert (@danlipert) <dan.lipert@consensys.net>
+author: Kazuaki Ishiguro (@kazuakiishiguro) <kazuaki@couger.co.jp>, Dan Lipert (@danlipert) <dan.lipert@consensys.net>
 discussions-to: <TBA>
 status: Draft
 type: Standards Track
@@ -177,7 +177,7 @@ This implementation uses zk-snark following libraries :
 * Circuit compiler for zkSNARKs : [circom](https://github.com/iden3/circom)
 * Library of basic circuits for circom : [circomlib](https://github.com/iden3/circomlib)
 * zk-SNARKs implementation in JavaScript : [snarkjs](https://github.com/iden3/snarkjs)
-* A fast zk-SSNARKs proof generator written in native Web Assembly : [websnark](https://github.com/iden3/websnark)
+* A fast zk-SNARKs proof generator written in native Web Assembly : [websnark](https://github.com/iden3/websnark)
 
 ## Related other EIPs
 
