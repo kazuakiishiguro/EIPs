@@ -1,7 +1,7 @@
 ---
 eip: <to be assigned>
 title: Anonymous and Verifiable On-chain Voting via CREAM: Confidential Reliable Ethereum Anonymous Mixer
-author: Kazuaki Ishiguro (@kazuakiishiguro), Dan Lipert (@danlipert) <dan.lipert@consensys.net>
+author: Kazuaki Ishiguro (@kazuakiishiguro) <kazuaki@couger.co.jp>, Dan Lipert (@danlipert) <dan.lipert@consensys.net>
 discussions-to: <TBA>
 status: Draft
 type: Standards Track
